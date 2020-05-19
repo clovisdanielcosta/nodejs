@@ -1,17 +1,19 @@
 
 <h1 align="center">
-# Curso de Introdução ao NodeJs
+Curso de Introdução ao NodeJs
 </h1>
 
 <p>
-Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito nesta introdução  um passo para a instalação do mesmo.
+Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas difiuldades na instalação do mesmo.
 </p> 
 
 <p align="center">
-  <a href="#chocolatey">| Instalando o Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#erros">Erros comuns na instalação do Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#chocolatey">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#chocolatey">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#chocolatey">Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#erros">Erros comuns</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#verificando">Verificando a instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#verificando">Verificando</a>
 </p>
 
 ## Tecnologias
@@ -27,7 +29,8 @@ Nesse projeto foram usadas seguintes tecnologias:
 2 - Opte pela instalação através Package Manager. 
 3 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos)
 
-## Chocolatey <img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="15%">
+<img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
+## Chocolatey
 
 Instalando o gerenciador de pacotes Chocolatey:
 1 - Abra o PowerShell como Administrador.
@@ -65,7 +68,8 @@ Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
 Feche o PowerShell e abra novamente.
 
-## NodeJs <img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="15%">
+<img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="5%">
+## NodeJs
 
 Para instalar a última versão estável do Node digite:
     
