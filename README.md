@@ -1,17 +1,35 @@
 # nodejs
-Curso de introdução ao Node.Js pela Digital Innovation One.
-A instalação no Windows demandou pesquisas e consultas a vários sites.
+<h4 align="center">
+  Curso de Introdução ao NodeJs
+</h4>
+Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito nesta introdução  um passo para a instalação do mesmo. 
 
-PRINCIPAIS TECNOLOGIAS
-    NodeJs
-    Chocolatey
-    WindowsPowerShell
+<p align="center">
+  <a href="#-chocolatey">Instalando o Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-erros">Erros comuns na instalação do Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-verificando">Verificando a instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-INSTALANDO NODE NO WINDOWS 
+<br>
+
+## Tecnologias
+
+Nesse projeto foram usadas seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Chocolatey](https://reactjs.org)
+
+
+ 
 
 Obs: (tecle Enter após os comandos)
 
-CHOCOLATEY
+## CHOCOLATEY
+INSTALANDO CHOCOLATEY
+<p align="center">
+  <img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="100%">
+</p>
 
 1 - Opte pela instalação através Package Manager.
 2 - Instalando o gerenciador de pacotes Chocolatey:
@@ -32,6 +50,7 @@ Se o retorno for "Restricted" digite (senão pule para o passo 5):
 
     choco
 
+## ERROS
 ERROS COMUNS NA INSTALAÇÃO
 
 Caso encontre erro na instalação do Chocolatey devido a ausência do arquivo "Microsoft.PowerShell_profile.ps1", dentro do terminal PowerShell como administrador, digite o comando abaixo e tecle enter:
@@ -50,17 +69,23 @@ Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
 Feche o PowerShell e abra novamente.
 
+## NODEJS
 INSTALANDO A VERSÃO ESTÁVEL DO NODEJS
 
-1 - Para instalar a última versão estável do Node digite:
+<p align="center">
+  <img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="100%">
+</p>
+
+Para instalar a última versão estável do Node digite:
     
     choco install nodejs-lts
 
-Se precisar reinstalar a versão estável acrescente --force no comando:
+Se precisar reinstalar a versão estável acrescente "--force" no comando:
 
     choco install --force nodejs-lts
 
-2 - Para verificar a instalação, abra um terminal ou prompt, digite:
+## VERIFICANDO
+Para verificar a instalação, abra um terminal ou prompt, digite:
 
     node -v
 
@@ -68,8 +93,10 @@ Se precisar reinstalar a versão estável acrescente --force no comando:
 
 Se aparecer os detalhes das versões tanto do Node como do gerenciador de pacotes do Node (Npm) a instalação foi um sucesso.
 
-FONTES:
+FONTES PARA CONSULTA:
 https://chocolatey.org/install
 https://superuser.com/questions/1313745/how-can-i-solve-warning-when-i-install-chocolatey
 https://www.tenforums.com/general-support/107659-how-sign-powershell-profile-w-self-signed-certificate.html
+
+
 
