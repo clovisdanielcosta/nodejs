@@ -2,8 +2,10 @@
 <h1 align="center">
 Curso de Introdução ao NodeJs
 </h1>
-<img alt="" src="https://nodejs.org/static/images/logo.svg" width="5%">
- <img alt="" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
+<p>
+<img alt="" src="https://nodejs.org/static/images/logo.svg" width="15%">
+ <img alt="" src="https://chocolatey.org/content/images/logo_square.svg" width="15%">
+</p>
 <p>
 Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas difiuldades na instalação do mesmo.
 </p> 
