@@ -2,7 +2,8 @@
 <h1 align="center">
 Curso de Introdução ao NodeJs
 </h1>
-
+<img alt="" src="https://nodejs.org/static/images/logo.svg" width="5%">
+ <img alt="" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
 <p>
 Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas difiuldades na instalação do mesmo.
 </p> 
@@ -29,7 +30,7 @@ Nesse projeto foram usadas seguintes tecnologias:
 2 - Opte pela instalação através Package Manager. 
 3 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos)
 
-## Chocolatey <img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
+## Chocolatey
 
 Instalando o gerenciador de pacotes Chocolatey:
 1 - Abra o PowerShell como Administrador.
@@ -67,7 +68,7 @@ Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
 Feche o PowerShell e abra novamente.
 
-## NodeJs <img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="5%">
+## Nodejs 
 
 Para instalar a última versão estável do Node digite:
     
@@ -81,6 +82,8 @@ Se precisar reinstalar a versão estável acrescente "--force" no comando:
 Para verificar a instalação, abra um terminal ou prompt, digite:
 
     node -v
+
+Depois:
 
     npm -v
 
