@@ -56,7 +56,7 @@ INSTALANDO A VERSÃO ESTÁVEL DO NODEJS
     
     choco install nodejs-lts
 
-Se precisar reinstalar a versão estável novamente acrescente --force no comando:
+Se precisar reinstalar a versão estável acrescente --force no comando:
 
     choco install --force nodejs-lts
 
