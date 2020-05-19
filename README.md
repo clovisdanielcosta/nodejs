@@ -16,7 +16,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digit
 </p>
 
 <p align="center">
-<img alt="" src="./src/tecnologias.png" width="10%">
+<img alt="" src="./src/tecnologias.png" width="20%">
 </p>
 
 ## Tecnologias
