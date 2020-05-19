@@ -8,8 +8,8 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digit
 </p> 
 
 <p align="center">
-  <a href="#chocolatey">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#chocolatey">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#chocolatey">Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#erros">Erros comuns</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela Digit
 Nesse projeto foram usadas seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [Chocolatey](https://reactjs.org)
+- [Chocolatey](https://chocolatey.org/)
 
 ## Requisitos
 
@@ -29,8 +29,7 @@ Nesse projeto foram usadas seguintes tecnologias:
 2 - Opte pela instalação através Package Manager. 
 3 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos)
 
-<img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
-## Chocolatey
+## Chocolatey <img alt="BeTheHero" src="https://chocolatey.org/content/images/logo_square.svg" width="5%">
 
 Instalando o gerenciador de pacotes Chocolatey:
 1 - Abra o PowerShell como Administrador.
@@ -68,8 +67,7 @@ Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
 Feche o PowerShell e abra novamente.
 
-<img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="5%">
-## NodeJs
+## NodeJs <img alt="BeTheHero" src="https://nodejs.org/static/images/logo.svg" width="5%">
 
 Para instalar a última versão estável do Node digite:
     
@@ -88,7 +86,7 @@ Para verificar a instalação, abra um terminal ou prompt, digite:
 
 Se aparecer os detalhes das versões tanto do Node como do gerenciador de pacotes do Node (Npm) a instalação foi um sucesso.
 
-FONTES PARA CONSULTA:<br>
+Fontes para consulta adicional:<br>
 https://chocolatey.org/install <br>
 https://superuser.com/questions/1313745/how-can-i-solve-warning-when-i-install-chocolatey<br>
 https://www.tenforums.com/general-support/107659-how-sign-powershell-profile-w-self-signed-certificate.html<br>
