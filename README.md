@@ -33,7 +33,6 @@ Nesse projeto foram usadas as seguintes tecnologias:
 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos).
 
 ## :o: Chocolatey
-## :o:Chocolatey
 
 Instalando o gerenciador de pacotes Chocolatey:
 1. Abra o PowerShell como Administrador.
@@ -53,8 +52,9 @@ Se o retorno for "Restricted" digite (senão pule para o passo 3):
 
     choco
 
-## Erros
+## /play trombone Erros
 
+Podem ocorrer erros na instalação. Não se desespere! /play noooo
 Caso encontre erro na instalação do Chocolatey devido a ausência do arquivo "Microsoft.PowerShell_profile.ps1", dentro do terminal PowerShell como administrador, copie o comando abaixo, cole no PowerShell e tecle enter:
 
     if (!(Test-Path -Path $PROFILE)) {
