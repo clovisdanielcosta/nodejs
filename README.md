@@ -19,7 +19,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <img 
 <img alt="" src="./src/tecnologias.png" width="20%">
 </p>
 
-## Tecnologias
+## :wrench: Tecnologias
 
 Nesse projeto foram usadas as seguintes tecnologias:
 
@@ -30,7 +30,7 @@ Nesse projeto foram usadas as seguintes tecnologias:
 
 - Windows 7 ou superior.
 - Optar pela instalação através Package Manager. 
-- Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos)
+- Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos).
 
 ## Chocolatey
 
