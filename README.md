@@ -16,7 +16,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Di
 </p>
 
 <p align="center">
-<img alt="" src="./src/tecnologia.png" width="20%">
+<img alt="" src="./src/tecnologia.png" width="40%">
 </p>
 
 ## :rocket: Tecnologias
