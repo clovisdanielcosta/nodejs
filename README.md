@@ -15,10 +15,6 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Di
   <a href="#verificando">Verificando</a>
 </p>
 
-<p align="center">
-<img alt="" src="./src/tecnologia.png" width="40%">
-</p>
-
 ## :rocket: Tecnologias
 
 Nesse projeto foram usadas as seguintes tecnologias:
