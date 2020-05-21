@@ -26,13 +26,14 @@ Nesse projeto foram usadas as seguintes tecnologias:
 - [NodeJS](https://nodejs.org/en/)
 - [Chocolatey](https://chocolatey.org/)
 
-## Requisitos
+## :memo: Requisitos
 
 - Windows 7 ou superior.
 - Optar pela instalação através Package Manager. 
 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos).
 
-## Chocolatey
+## :o: Chocolatey
+## :o:Chocolatey
 
 Instalando o gerenciador de pacotes Chocolatey:
 1. Abra o PowerShell como Administrador.
