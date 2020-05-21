@@ -6,14 +6,14 @@ Curso de Introdução ao NodeJs
 Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Digital Innovation One</b>. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas dificuldades na instalação do mesmo.
 </p> 
 
-<p align="center"><b>
-  <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="#tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#chocolatey">Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#erros">Erros comuns</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#verificando">Verificando</a>
-</b></p>
+</p>
 
 <p align="center">
 <img alt="" src="./src/tecnologia.png" width="40%">
