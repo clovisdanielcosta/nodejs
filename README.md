@@ -5,7 +5,7 @@ Curso de Introdução ao NodeJs
 <p>
 Este repositório foi criado para efeito de estudo no curso de NodeJS pela <img alt="" src="./src/dio-logo-sm-white.png" width="5%">Digital Innovation One. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas dificuldades na instalação do mesmo.
 </p> 
-
+**
 <p align="center">
   <a href="#tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <img 
   <a href="#nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#verificando">Verificando</a>
 </p>
-
+**
 <p align="center">
 <img alt="" src="./src/tecnologias.png" width="20%">
 </p>
