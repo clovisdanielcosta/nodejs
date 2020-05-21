@@ -19,7 +19,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <img 
 <img alt="" src="./src/tecnologias.png" width="20%">
 </p>
 
-## :wrench: Tecnologias
+## :rocket: Tecnologias
 
 Nesse projeto foram usadas as seguintes tecnologias:
 
@@ -32,7 +32,7 @@ Nesse projeto foram usadas as seguintes tecnologias:
 - Optar pela instalação através Package Manager. 
 - Familiaridade como o uso do Windows PowerShell (tecle Enter após os comandos).
 
-## :o: Chocolatey
+## :small_orange_diamond: Chocolatey
 
 Instalando o gerenciador de pacotes Chocolatey:
 1. Abra o PowerShell como Administrador.
@@ -52,9 +52,8 @@ Se o retorno for "Restricted" digite (senão pule para o passo 3):
 
     choco
 
-## /play trombone Erros
+## :small_orange_diamond: Erros
 
-Podem ocorrer erros na instalação. Não se desespere! /play noooo
 Caso encontre erro na instalação do Chocolatey devido a ausência do arquivo "Microsoft.PowerShell_profile.ps1", dentro do terminal PowerShell como administrador, copie o comando abaixo, cole no PowerShell e tecle enter:
 
     if (!(Test-Path -Path $PROFILE)) {
@@ -71,7 +70,7 @@ Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
 Feche o PowerShell e abra novamente.
 
-## NodeJS 
+## :small_orange_diamond: NodeJS 
 
 Para instalar a última versão estável do Node digite:
     
@@ -81,7 +80,7 @@ Se precisar reinstalar a versão estável acrescente "--force" no comando:
 
     choco install --force nodejs-lts
 
-## Verificando
+## :small_orange_diamond: Verificando
 Para verificar a instalação, abra um terminal ou prompt, digite:
 
     node -v
