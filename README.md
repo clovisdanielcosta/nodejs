@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Curso de Introdução ao NodeJs
+:small_red_triangle_down: Curso de Introdução ao NodeJs
 </h1>
 <p>
 Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Digital Innovation One</b>. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas dificuldades na instalação do mesmo.
@@ -10,7 +10,7 @@ Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Di
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-chocolatey">Chocolatey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-erros">Erros comuns</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#beetle-erros">Erros comuns</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-nodejs">Instalando o NodeJs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-verificando">Verificando</a>
 </p>
@@ -49,7 +49,7 @@ Se o retorno for "Restricted" digite (senão pule para o passo 3):
 
     choco
 
-## :small_orange_diamond: Erros
+## :beetle: Erros
 
 Caso encontre erro na instalação do Chocolatey devido a ausência do arquivo "Microsoft.PowerShell_profile.ps1", dentro do terminal PowerShell como administrador, copie o comando abaixo, cole no PowerShell e tecle enter:
 
