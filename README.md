@@ -3,7 +3,7 @@
 :small_red_triangle_down: Curso de Introdução ao NodeJs
 </h1>
 <p>
-Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Digital Innovation One</b>. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas dificuldades na instalação do mesmo.
+Este repositório foi criado para efeito de estudo no curso de NodeJS pela <b>Digital Innovation One</b>. Como foi encontrada certa dificuldade para a instalação do NodeJs no Windows foi descrito um passo a passo nesta introdução para ajudar outros desenvolvedores que talvez se deparem com as mesmas dificuldades na instalação.
 </p> 
 
 <p align="center">
@@ -31,7 +31,8 @@ Nesse projeto foram usadas as seguintes tecnologias:
 
 ## :small_orange_diamond: Chocolatey
 
-Instalando o gerenciador de pacotes Chocolatey:
+Para gerenciar a instalação do NodeJS iremos usar o Chocolatey.
+Instalando:
 1. Abra o PowerShell como Administrador.
 2. Verifique se as políticas de execução não estão restritas digite:
     
@@ -45,7 +46,9 @@ Se o retorno for "Restricted" digite (senão pule para o passo 3):
 
     Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-4. Para verificar a instalação digite:
+4. Verifique as mensagens no final da instalação. Se houver aviso de erro note a seção "Erros" logo abaixo.
+
+5. Para verificar a instalação digite:
 
     choco
 
@@ -60,6 +63,8 @@ Caso encontre erro na instalação do Chocolatey devido a ausência do arquivo "
 Depois digite:
 
     type $profile
+
+Em seguida repita os passos 3 e 5 da seção "Chocolatey".
 
 Caso encontre o erro de "Arquivo não está assinado digitalmente" digite:
 
